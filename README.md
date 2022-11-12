@@ -14,17 +14,7 @@
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
-![image](https://user-images.githubusercontent.com/104925648/200746879-0e64eed8-9c17-48a9-912c-5e8282c6dbbd.png)
-![image](https://user-images.githubusercontent.com/104925648/200746983-b2af88b5-734a-4df8-a6a5-716b5cfebf27.png)
-![image](https://user-images.githubusercontent.com/104925648/200747047-98923b70-7845-4800-a079-a5ddc5cbe53a.png)
-![image](https://user-images.githubusercontent.com/104925648/200970407-0426295b-0de5-4c07-a371-a1bee0efb165.png)
-![image](https://user-images.githubusercontent.com/104925648/200747269-2cf588c6-dc01-4b61-a505-01d5042c930e.png)
-![image](https://user-images.githubusercontent.com/104925648/200747373-95a8435c-7e37-457c-a841-ad9f5e1587f0.png)
-![image](https://user-images.githubusercontent.com/104925648/200747414-f3376b97-a3db-4ebc-8840-25c66dafda0f.png)
-![image](https://user-images.githubusercontent.com/104925648/200747458-ae61f782-d7eb-4585-9560-cbbf37c46e17.png)
-![image](https://user-images.githubusercontent.com/104925648/201176988-761ada95-1710-4879-a5d8-c949ce79ae10.png)
-![image](https://user-images.githubusercontent.com/104925648/200747553-6a0d151a-b480-4eb8-9d9b-635c8e1be5df.png)
-![image](https://user-images.githubusercontent.com/104925648/200747627-a4a3cd47-0a08-4eb9-9012-0eff35a39c4f.png)
+
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # Resolución de ejercicios impares *CAPITULO 1*:
 
@@ -165,27 +155,8 @@ los temas propuestos:
 
 ## Sección 2-2 Carga Eléctrica
 
-1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
-![image](https://user-images.githubusercontent.com/104925648/201226669-2144d54e-6740-4917-8c46-717a77a126c6.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201219814-4eadcb00-1da1-4e03-a178-9713176cc952.png)
 
-## Sección 2-3 Voltaje, corriente y resistencia
-
-5. Determine el voltaje en cada uno de los siguientes casos:
-- (a) 10 J/C     (b) 5 J/2 C     (c) 100 J/25 C
-![image](https://user-images.githubusercontent.com/104925648/201219949-6fce8c9b-1dd6-40be-9301-ba30a411e813.png)
-
-7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
-![image](https://user-images.githubusercontent.com/104925648/201220041-11fc8ea4-9b1c-4d0f-9fd5-75328e9e314a.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235240-99219f84-8f2b-4302-9848-14147333252d.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235274-5b11e9fc-0973-4263-b15b-01d8279e8a76.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235319-6a850689-38ff-4c35-838f-35d96b945698.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235369-80a6b826-d9d4-4fcd-bc39-5517e69f07f5.png)
 
 ## Sección 2-4 Fuentes de volatje y de corriente
 
@@ -198,53 +169,8 @@ los temas propuestos:
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 - La fuente de potencia convierte el volatje de corriente alterna en corriente directa
 
-## Sección 2-5 Resistores
 
-21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
-- (a) rojo, violeta, naranja, oro
-- (b) café, gris, rojo, plata
-![image](https://user-images.githubusercontent.com/104925648/201221560-5610d6a4-5a6a-44f7-9329-8ef1bbca7fdd.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201235690-a79e0c49-e031-40f2-9da9-67da050b1b0a.png)
-
-25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que
-cada resistor tiene una tolerancia del 5 por ciento.
-![image](https://user-images.githubusercontent.com/104925648/201222333-6aef010a-f3e0-426e-92a8-e320c4133150.png)
-
-27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que
-cada resistor tiene tolerancia del 1 por ciento.
-![image](https://user-images.githubusercontent.com/104925648/201222402-5efa2590-bf02-427e-8989-7215120d3e50.png)
-
-29. ¿Cuál es la resistencia indicada por 4K7?
-![image](https://user-images.githubusercontent.com/104925648/201222473-f7b933c5-2779-4029-9f94-fe7274ca650b.png)
-
-## Sección 2-6 El circuito eléctrico
-
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
-![image](https://user-images.githubusercontent.com/104925648/201222599-bcf5a0be-1470-4d26-aabf-bd2b3266fcdf.png)
-
-33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo.
-    Determine cuál es este circuito.
-![image](https://user-images.githubusercontent.com/104925648/201222809-202c4210-b8b7-4055-8f5a-4d84ad05aa85.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201222865-e5a39c2d-3339-4f4f-b88e-e6dcaae546dd.png)
-
-## Sección 2-7 Mediciones de circuito básico
-
-37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de
-fuente en la figura 2-72.
-![image](https://user-images.githubusercontent.com/104925648/201222984-f61238f6-91e5-4dbf-81af-a4da2f33e994.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235954-62363df4-006f-44f8-a06c-cc8cefa3342a.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201235995-9075508e-ae68-4f2e-aeb9-66b74df7a417.png)
-
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
-![image](https://user-images.githubusercontent.com/104925648/201224790-48036641-5e92-448c-8753-2da84198159e.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201236093-45ec9177-7116-4d87-bce5-6175b1aa9f41.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201225017-9f4f055c-b749-4f0f-a7c2-617e36e5b9d4.png)
 
 ># 4. VÍDEO
 
