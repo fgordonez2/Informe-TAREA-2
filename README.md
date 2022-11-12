@@ -58,25 +58,6 @@ los temas propuestos:
 
 ## Sección 1-2 NOTACIÓN CIENTÍFICA
 
-1. Exprese cada uno de los números siguientes en notación científica:
-- (a) 3000 (b) 75,000 (c) 2,000,000
-![image](https://user-images.githubusercontent.com/104925648/201225991-11b77b79-d864-4524-ad5a-f5afe68200c7.png)
-
-3. Exprese cada uno de los números siguientes en notación científica:
-- (a) 8400 (b) 99,000  (c) $0.2x10^6$
-![image](https://user-images.githubusercontent.com/104925648/201227072-132352dc-3a8c-47e6-9a07-2e51a886016d.png)
-
-5. Exprese cada uno de los números siguientes en notación científica:
-- (a) $32x10^3$    (b) $60800x10^-6$    (c) $870x10^8$
-![image](https://user-images.githubusercontent.com/104925648/201227172-4922be38-a7f3-45a4-a527-c7e1de4f6992.png)
-
-7. Exprese cada uno de los números siguientes como un número decimal regular:
-- (a) $2.5x10^-6$    (b) $5.0x10^2$       (c) $3.9x10^-1$
-![image](https://user-images.githubusercontent.com/104925648/201226212-8ae4635b-1e28-407e-bcef-c3940ae8c2a3.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201227349-34f38d23-f0a5-4095-9ee5-612149da3dba.png)
-
-![image](https://user-images.githubusercontent.com/104925648/201215994-4b0db228-585c-4a4d-a73a-d3801c794940.png)
 
 ## Sección 1-3 Notación de Ingeniería y Prefijos métricos
 
