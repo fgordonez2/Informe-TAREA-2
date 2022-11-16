@@ -6,11 +6,11 @@
 - Conocer los conceptos de potencia y energía mediante la lectura del Capítulo 4 del Libro "Principios de circuitos eléctricos", para poder realizar
   los respectivos cálculos según necestite en mi circuito eléctrico.
  # Específicos:
-- Reconocer los prefijos métricos para la correcta resolución de ejercicios.
-- Memorizar los conceptos de voltaje, corriente y resistencia.
-- Aplicar la notación cinetífica para representar cantidades.
-- Diferenciar entre la notación científica y la notación de ingeniería.
-- Solucionar problemas de riesgos eléctricos de forma inmediata.
+- Aplicar la Ley de Ohm, resolviendo ejercicios de volatje, corriente y resitencia.
+- Identificar el método básico de abordar la localización de fallas AMP.
+- Calcular la potencia de un circuito eléctrico conociendo suss respectivas definicones-
+- Seleccionar de manera correcta un resisitor considerando la potencia.
+- Memorizar la conversión unidades meétricas.
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
