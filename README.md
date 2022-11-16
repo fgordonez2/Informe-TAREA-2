@@ -136,7 +136,7 @@ V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 gris, café, rojo.
 ![image](https://user-images.githubusercontent.com/104925648/202095474-f7d60484-2d0d-40ea-b85e-cf96ba9ca117.png)
 
-11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
+11.Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
 tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
 debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
 nuevo valor?
