@@ -8,9 +8,9 @@
  # Específicos:
 - Aplicar la Ley de Ohm, resolviendo ejercicios de volatje, corriente y resitencia.
 - Identificar el método básico de abordar la localización de fallas AMP.
-- Calcular la potencia de un circuito eléctrico conociendo suss respectivas definicones-
+- Calcular la potencia de un circuito eléctrico conociendo sus respectivas definicones.
 - Seleccionar de manera correcta un resisitor considerando la potencia.
-- Memorizar la conversión unidades meétricas.
+- Memorizar la conversión de prefijos y unidades métricas.
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
