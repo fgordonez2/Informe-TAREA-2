@@ -48,6 +48,7 @@ los temas propuestos:
 
 ![image](https://user-images.githubusercontent.com/104925648/202088990-13aab42e-15ae-43b8-b4d7-b7f50f851078.png)
 
+## Exámen Rápido:
 
 
 5. Hertz es la unidad de:
