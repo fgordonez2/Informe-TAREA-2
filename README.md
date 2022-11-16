@@ -1,10 +1,10 @@
 # INFORME TAREA-2
 ># 1. OBJETIVOS
 # Generales:
-- Comprender el uso de la notación científica y de ingeniería, mediante la resolución de problemas en el SI, para
-  conocer su respectiva aplicación en la Ingeniería en Mecatrónica.
-- Identificar las características de un circuito eléctrico y los elementos que lo componen, mediante la representación
-  de su funcionamiento de manera esquematizada, para poder diseñar de forma física culquier tipo de circuito.
+- Determinar la relación entre corriente, voltaje y resistencia mediante la realización de diferentes ejemplos para explicar como se 
+  emplea la Ley de Ohm.
+- Conocer los conceptos de potencia y energía mediante la lectura del Capítulo 4 del Libro "Principios de circuitos eléctricos", para poder realizar
+  los respectivos cálculos según necestite en mi circuito eléctrico.
  # Específicos:
 - Reconocer los prefijos métricos para la correcta resolución de ejercicios.
 - Memorizar los conceptos de voltaje, corriente y resistencia.
