@@ -37,13 +37,15 @@ los temas propuestos:
 ## Autoevaluación:
 
 1. La ley de Ohm estipula que
-(a) la corriente es igual al voltaje multiplicado por la resistencia
-**(b) el voltaje es igual a la corriente multiplicada por la resistencia** ←
-(c) la resistencia es igual a la corriente dividida entre el voltaje
-(d) el voltaje es igual al cuadrado de la corriente multiplicada por la resistencia
+- (a) la corriente es igual al voltaje multiplicado por la resistencia
+- **(b) el voltaje es igual a la corriente multiplicada por la resistencia** ←
+- (c) la resistencia es igual a la corriente dividida entre el voltaje
+- (d) el voltaje es igual al cuadrado de la corriente multiplicada por la resistencia
 
 ![image](https://user-images.githubusercontent.com/104925648/202086760-9804fcea-5b52-4676-98e2-e72ff6fa782c.png)
+
 ![image](https://user-images.githubusercontent.com/104925648/202087821-0393f990-d23b-4c18-82ec-32d054a734e3.png)
+
 ![image](https://user-images.githubusercontent.com/104925648/202088990-13aab42e-15ae-43b8-b4d7-b7f50f851078.png)
 
 
