@@ -42,11 +42,13 @@ los temas propuestos:
 - (c) la resistencia es igual a la corriente dividida entre el voltaje
 - (d) el voltaje es igual al cuadrado de la corriente multiplicada por la resistencia
 
-![image](https://user-images.githubusercontent.com/104925648/202086760-9804fcea-5b52-4676-98e2-e72ff6fa782c.png)
+![image](https://user-images.githubusercontent.com/104925648/202312142-8c26d21d-a334-424a-a94c-712e84ca9af4.png)
 
-![image](https://user-images.githubusercontent.com/104925648/202087821-0393f990-d23b-4c18-82ec-32d054a734e3.png)
+![image](https://user-images.githubusercontent.com/104925648/202312279-258dad3c-6ec1-465d-abd6-85d1cf26e0ee.png)
 
-![image](https://user-images.githubusercontent.com/104925648/202088990-13aab42e-15ae-43b8-b4d7-b7f50f851078.png)
+![image](https://user-images.githubusercontent.com/104925648/202312420-18306203-0c52-4758-a6af-30e11b34b8e8.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202312514-ce33880f-f5d0-4c23-afb1-f2ef7ff98dba.png)
 
 ## Exámen Rápido:
 
