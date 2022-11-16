@@ -116,7 +116,7 @@ cuando
 - (f) el voltaje y la resistencia se duplican
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
-V = I*R
+- V = I*R
 
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente
 el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de
@@ -124,6 +124,30 @@ V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 ![image](https://user-images.githubusercontent.com/104925648/202092800-797c9a13-22ba-4854-9724-9e6691a5e413.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/202093849-9c0f9dce-52c9-4d9f-98af-9fba1419c656.png)
+
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3
+![image](https://user-images.githubusercontent.com/104925648/202094223-42eaa8a4-88e9-435d-9a8b-2d5fc19e1f66.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202094819-15777a0d-ba07-46c2-a89d-b2a95057b0cd.png)
+
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
+gris, café, rojo.
+![image](https://user-images.githubusercontent.com/104925648/202095474-f7d60484-2d0d-40ea-b85e-cf96ba9ca117.png)
+
+11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
+tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
+debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
+nuevo valor?
+![image](https://user-images.githubusercontent.com/104925648/202096099-e61f9d60-7581-467e-bf87-1711076d0958.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202099460-3eda1c69-0ae5-4f4c-9b3f-49ced0087e14.png)
+
+## Sección 3-2 Cálculo de la corriente
+
+![image](https://user-images.githubusercontent.com/104925648/202100875-bb3e96e7-7b10-494f-a448-6cdceb28d15f.png)
+
+
+
 
 
 
