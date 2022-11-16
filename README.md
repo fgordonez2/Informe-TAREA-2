@@ -3,7 +3,7 @@
 # Generales:
 - Determinar la relación entre corriente, voltaje y resistencia mediante la realización de diferentes ejemplos para explicar como se 
   emplea la Ley de Ohm.
-- Conocer los conceptos de potencia y energía mediante la lectura del Capítulo 4 del Libro "Principios de circuitos eléctricos", para poder realizar
+- Conocer los conceptos de potencia y energía mediante la lectura del Capítulo 4 del Libro "Principios de circuitos eléctricos" de FLOYD, para poder realizar
   los respectivos cálculos según necestite en mi circuito eléctrico.
  # Específicos:
 - Aplicar la Ley de Ohm, resolviendo ejercicios de volatje, corriente y resitencia.
