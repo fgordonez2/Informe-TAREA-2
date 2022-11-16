@@ -194,7 +194,7 @@ nuevo valor?
 - (c) voltaje y corriente
 - (d) sin voltaje y sin corriente 
 
-11. No hay corriente en un circuito cuando:
+11 No hay corriente en un circuito cuando:
 - (a) un interruptor está cerrado
 - (b) un interruptor está abierto
 - (c) no hay voltaje
