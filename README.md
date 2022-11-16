@@ -148,6 +148,25 @@ nuevo valor?
 
 ![image](https://user-images.githubusercontent.com/104925648/202100875-bb3e96e7-7b10-494f-a448-6cdceb28d15f.png)
 
+![image](https://user-images.githubusercontent.com/104925648/202314078-2c1766ab-a01e-4d17-a212-8c83717503c5.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202315485-efb40c56-c94f-402c-879a-4d0c719e82bf.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202317131-f98b2634-5666-45fc-be0f-3a16ae6be013.png)
+
+## Sección 3-3 Cálculo de voltaje
+
+![image](https://user-images.githubusercontent.com/104925648/202319427-cae67749-e4fa-4d41-94c4-c3c4fd3b1580.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202319455-d28ebe8c-f78d-4d22-9736-938b16c8ff68.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202319918-4a289fdf-f045-4755-9624-9df970341bb5.png)
+
+
+
+
+
+
 
 
 
