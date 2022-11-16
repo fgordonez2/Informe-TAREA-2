@@ -32,7 +32,7 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/202085051-b2ed61cd-2583-4847-b4a3-5fdc16f7e3f2.png)
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios impares *CAPITULO 1*:
+# Resolución de ejercicios impares *CAPITULO 3*:
 
 ## Autoevaluación:
 
@@ -83,7 +83,7 @@ los temas propuestos:
 
 
 
-# Resolución de ejercicios impares *CAPITULO 2*:
+# Resolución de ejercicios impares *CAPITULO 4*:
 
 ## Autoevaluación:
 
