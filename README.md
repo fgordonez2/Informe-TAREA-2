@@ -50,6 +50,18 @@ los temas propuestos:
 
 ## Exámen Rápido:
 
+1 Si la corriente a través de un resistor fijo cambia de 10 a 12 mA, el voltaje del resistor
+
+- **(a) se incrementa** ←
+- (b) disminuye 
+- (c) no cambia
+
+3. El voltaje a través de un resistor variable es de 5 V. Si la resistencia se reduce, en el resistor la corriente
+- **(a) se incrementa** ←
+- (b) disminuye 
+- (c) no cambia
+- 
+### Consulte la figura 3-14
 
 5. Hertz es la unidad de:
 - a) potencia 
