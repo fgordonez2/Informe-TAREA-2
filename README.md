@@ -60,14 +60,21 @@ los temas propuestos:
 - **(a) se incrementa** ←
 - (b) disminuye 
 - (c) no cambia
-- 
+ 
 ### Consulte la figura 3-14
 
-5. Hertz es la unidad de:
-- a) potencia 
-- b) inductancia 
-- **c) frecuencia** ←
-- d) tiempo
+![image](https://user-images.githubusercontent.com/104925648/202091081-7f2ff23e-9873-4212-a548-dc372af36e31.png)
+
+
+5. Si la lectura del voltímetro cambia a 175 V, la lectura del amperímetro
+- **(a) se incrementa** ←
+- (b) disminuye 
+- (c) no cambia
+
+7. Si el resistor se retira del circuito y deja una abertura, la lectura del amperímetro
+- (a) se incrementa 
+- **(b) disminuye** ← 
+- (c) no cambia
 
 7. La cantidad $4.7x10^3$ es lo mismo que:
 - a) 470 
@@ -75,17 +82,41 @@ los temas propuestos:
 - c) 47,000 
 - d) 0.0047
 
+### Consulte la figura 3-21
+
+![image](https://user-images.githubusercontent.com/104925648/202091553-e6fd2f25-5e83-4abf-adff-6b6231589fab.png)
+
+9. Si se ajusta el reóstato para incrementar la resistencia, la corriente a través del elemento calentador
+- (a) se incrementa 
+- **(b) disminuye** ← 
+- (c) no cambia
+
 9. El número 3,300,000 puede ser expresado en notación de ingeniería como:
 - a) $3300x10^3$
 - b) $3.3x10^-6$
 - c) $3.3x10^6$
 - **d) cualquier respuesta (a) o (c)** ←
 
-11. Cinco mil volts pueden ser expresados como
-- a) 5000 V 
-- b) 5 MV 
-- c) 5 kV 
-- **d) cualquier respuesta (a) o (c)** ←
+11. Si el fusible se abre, el voltaje a través del elemento calentador
+- (a) se incrementa 
+- **(b) disminuye** ← 
+- (c) no cambia
+
+13. Si el fusible se cambia por uno de mayor capacidad, la corriente a través del reóstato
+- (a) se incrementa 
+- (b) disminuye 
+- **(c) no cambia** ←
+
+### Consulte la figura 3-23
+
+![image](https://user-images.githubusercontent.com/104925648/202091914-86ceb349-b8d8-4059-a3fb-bb6ca2d21848.png)
+
+15. Si la lámpara se funde, el voltaje a través de ella
+- (a) se incrementa 
+- (b) disminuye 
+- **(c) no cambia** ←
+
+
 
 ## Sección 1-2 NOTACIÓN CIENTÍFICA
 
