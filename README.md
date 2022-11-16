@@ -76,12 +76,6 @@ los temas propuestos:
 - **(b) disminuye** ← 
 - (c) no cambia
 
-7. La cantidad $4.7x10^3$ es lo mismo que:
-- a) 470 
-- **b) 4700** ←
-- c) 47,000 
-- d) 0.0047
-
 ### Consulte la figura 3-21
 
 ![image](https://user-images.githubusercontent.com/104925648/202091553-e6fd2f25-5e83-4abf-adff-6b6231589fab.png)
