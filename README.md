@@ -11,9 +11,25 @@
 - Aplicar la notación cinetífica para representar cantidades.
 - Diferenciar entre la notación científica y la notación de ingeniería.
 - Solucionar problemas de riesgos eléctricos de forma inmediata.
+
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
+![image](https://user-images.githubusercontent.com/104925648/202083918-217614ba-8547-44b4-b5c5-20737c5fe3c3.png)
+![image](https://user-images.githubusercontent.com/104925648/202084016-7628e72f-4bfe-47c1-8e77-c2b2427a9c96.png)
+![image](https://user-images.githubusercontent.com/104925648/202084082-fa871db9-bccb-41a6-9d53-438c84d4f337.png)
+![image](https://user-images.githubusercontent.com/104925648/202084132-8009aaa1-2821-41e1-aed0-a97445154494.png)
+![image](https://user-images.githubusercontent.com/104925648/202084179-2a0eeeac-986c-451f-bece-5c72eb2662e7.png)
+![image](https://user-images.githubusercontent.com/104925648/202084208-120f426c-7a85-4313-a46f-39dc12d50e11.png)
+![image](https://user-images.githubusercontent.com/104925648/202084729-c3f185eb-8280-45b3-9dab-810eb7483c96.png)
+![image](https://user-images.githubusercontent.com/104925648/202084776-faaecf2e-f538-4004-96a7-07a64f079451.png)
+![image](https://user-images.githubusercontent.com/104925648/202084823-431664cf-4057-4d46-9570-34b952813a24.png)
+![image](https://user-images.githubusercontent.com/104925648/202084845-68784cb4-3ccd-4852-83ce-0d89d65d8819.png)
+![image](https://user-images.githubusercontent.com/104925648/202084875-e84fc8f3-0f3e-46bb-9791-2cca6812adb9.png)
+![image](https://user-images.githubusercontent.com/104925648/202084905-f98c2f61-8ff9-4c66-9a6d-6cf081c96690.png)
+![image](https://user-images.githubusercontent.com/104925648/202084932-ec2655b0-8578-4138-8407-f36afb893066.png)
+![image](https://user-images.githubusercontent.com/104925648/202084963-ee1e83ae-ffbc-40b3-b948-7d5858a3c73b.png)
+![image](https://user-images.githubusercontent.com/104925648/202085051-b2ed61cd-2583-4847-b4a3-5fdc16f7e3f2.png)
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # Resolución de ejercicios impares *CAPITULO 1*:
