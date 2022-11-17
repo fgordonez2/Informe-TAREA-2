@@ -258,12 +258,15 @@ nuevo valor?
 ## Sección 4-1 Energía y potencia:
 
 1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere
+
 ![image](https://user-images.githubusercontent.com/104925648/202339192-44c4c12b-ad86-4248-99b8-2d43d13d1076.png)
 
 3.¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
 ![image](https://user-images.githubusercontent.com/104925648/202339547-e5e7e0cb-37d2-408d-b55f-fda6bf4fe3e4.png)
 
 5.¿A cuántos watts equivalen 1000 J en 50 ms?
+
 ![image](https://user-images.githubusercontent.com/104925648/202339753-69abbdee-af57-42bb-acd1-47cf6d7afdc3.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/202340893-a0d95a1d-e87d-4507-b52e-167fa2daf339.png)
