@@ -354,7 +354,7 @@ es la eficiencia de esta fuente de potencia?
 
 ># 4. VÍDEO
 
-Vídeo explicativo: https://youtu.be/q7IeAUiEiFQ
+Vídeo explicativo: https://youtu.be/P-EX5sDqTl4
 
 ># 5. CONCLUSIONES
 
