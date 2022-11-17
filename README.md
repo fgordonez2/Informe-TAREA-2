@@ -273,14 +273,17 @@ nuevo valor?
 - (b) 0.0005 W 
 - (c) 0.25 mW 
 - (d) 0.00667 mW
+
 ![image](https://user-images.githubusercontent.com/104925648/202341558-c5f7a448-6a07-4d9d-9e1f-369edbd83228.png)
 
 11.Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h
    ¿cuántos joules de energía consume?
+   
  ![image](https://user-images.githubusercontent.com/104925648/202341863-d24f8cc4-6bae-4d79-824a-d58ae034e5ad.png)
 
 13.Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su
    consumo de potencia diario promedio?
+   
  ![image](https://user-images.githubusercontent.com/104925648/202342341-c9e2e631-3e29-4dc7-8e74-6b2dab199438.png)
 
 15.Convierta 6700 watts-segundos en kWh.
