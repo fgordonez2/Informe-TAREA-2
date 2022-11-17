@@ -325,6 +325,39 @@ No hay ningún ejercicio impar.
 
 ## Sección 4-5 Fuentes de potencia
 
+![image](https://user-images.githubusercontent.com/104925648/202346913-d8250cd0-19b6-4e7b-b0bd-7f80a50540ea.png)
+
+31.¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+
+![image](https://user-images.githubusercontent.com/104925648/202347085-c6bf24f9-df29-4ab6-aebc-eb16a21f02c6.png)
+
+33.¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+![image](https://user-images.githubusercontent.com/104925648/202347219-81188abf-1663-4c98-873a-29fed8f7e110.png)
+
+35.Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
+es la eficiencia de esta fuente de potencia?
+
+![image](https://user-images.githubusercontent.com/104925648/202347889-6b5d0691-bce8-4988-9154-de72d15eb07d.png)
+
+37.Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, 
+¿cuántos kilowatts-hora utiliza la fuente de potencia?
+
+![image](https://user-images.githubusercontent.com/104925648/202348376-2032d8ca-56a8-4f5f-8f73-a6b74ae7cda0.png)
+
+## Localización de fallas y análisis con archivos Multisin
+
+39. Abra el archivo P04-39 y determine la corriente, el voltaje y la resistencia. 
+    Calcule la potencia con estos valores
+    
+ ![image](https://user-images.githubusercontent.com/104925648/202348576-62f3b478-52d8-493d-8c64-8999122ea58a.png)
+
+ 
+
+
+
+
+
 
 
 
