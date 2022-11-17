@@ -177,6 +177,124 @@ nuevo valor?
 
 ![image](https://user-images.githubusercontent.com/104925648/202330677-7fa8594f-1c5a-4cce-8362-55219dc20f3f.png)
 
+# Resolución de ejercicios impares *CAPITULO 3*:
+
+## Autoevaluación:
+
+1.La potencia se puede definir como 
+- (a) energía 
+- (b) calor
+- **(c) la razón de cambio a la cual se utiliza la energía** ← 
+- (d) el tiempo requerido para utilizar la energía
+
+3.Si se requieren 300 ms para utilizar 10,000 J de energía, la potencia es
+- **(a) 33.3 kW** ← 
+- (b) 33.3 W 
+- (c) 33.3 mW
+![image](https://user-images.githubusercontent.com/104925648/202332063-d34adb27-6ba1-49d3-bb46-862b967dbbf8.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202332701-e084aaba-582a-4d9d-9fbd-44d986c3e1ed.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202334549-02697c8a-cea0-479d-b553-a4fc2ffb5475.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202335290-efe44029-6cfc-458e-9ca3-91611f6f929d.png)
+
+11.¿Cuántos watts-hora representan 75 W usados durante 10 h?
+- (a) 75 Wh 
+- **(b) 750 Wh** 27 
+- (c) 0.75 Wh 
+- (d) 7500 Wh
+
+13.La potencia nominal de un resistor que ha de manejar hasta 1.1 W deberá ser
+- (a) 0.25 W 
+- (b) 1 W 
+- **(c) 2 W** ←
+- (d) 5 W
+
+15.Cuando la manecilla de un ohmmetro analógico indica infinito, el resistor que se está midiendo está
+- (a) sobrecalentado 
+- (b) en cortocircuito 
+- **(c) abierto** ← 
+- (d) invertido
+
+17.Una fuente de potencia dada es capaz de suministrar 8 A durante 2.5 h. Su capacidad de amperes-hora es
+- (a) 2.5 Ah 
+- **(b) 20 Ah** ← 
+- (c) 8 Ah
+
+## Exámen ráido de dinámica de circuitos:
+
+1.Si la corriente a través de un resistor fijo cambia de 10 mA a 12 mA, la potencia en el resistor
+- **(a) se incrementa** ← 
+- (b) disminuye 
+- (c) no cambia
+
+3.Un resistor variable tiene 5 V a través de él. Si usted reduce la resistencia, la potencia en el resistor
+- **(a) se incrementa** ← 
+- (b) disminuye 
+- (c) no cambia
+
+5.Si la resistencia de una carga conectada a una batería se incrementa, la catidad de tiempo que la batería
+  puede siminstrar corriente 
+- **(a) aumenta** ← 
+- (b) disminuye 
+- (c) no cambia
+
+7. Si la corriente que una batería suministra a una carga se incrementa, la duración de la batería
+- (a) aumenta 
+- **(b) disminuye** ← 
+- (c) no cambia
+
+9. Si el voltaje de salida de la fuente de potencia se incrementa, la potencia suministrada a la carga constante
+- **(a) aumenta** ← 
+- (b) disminuye 
+- (c) no cambia
+
+11. Con un voltaje constante de salida, si la resistencia de la carga se incrementa, la potencia en la carga
+- (a) se incrementa 
+- **(b) disminuye** ← 
+- (c) no cambia
+
+## Sección 4-1 Energía y potencia:
+
+1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere
+![image](https://user-images.githubusercontent.com/104925648/202339192-44c4c12b-ad86-4248-99b8-2d43d13d1076.png)
+
+3.¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+![image](https://user-images.githubusercontent.com/104925648/202339547-e5e7e0cb-37d2-408d-b55f-fda6bf4fe3e4.png)
+
+5.¿A cuántos watts equivalen 1000 J en 50 ms?
+![image](https://user-images.githubusercontent.com/104925648/202339753-69abbdee-af57-42bb-acd1-47cf6d7afdc3.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202340893-a0d95a1d-e87d-4507-b52e-167fa2daf339.png)
+
+9.Convierta las siguientes cantidades en microwatts:
+- (a) 2 W 
+- (b) 0.0005 W 
+- (c) 0.25 mW 
+- (d) 0.00667 mW
+![image](https://user-images.githubusercontent.com/104925648/202341558-c5f7a448-6a07-4d9d-9e1f-369edbd83228.png)
+
+11.Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h
+   ¿cuántos joules de energía consume?
+ ![image](https://user-images.githubusercontent.com/104925648/202341863-d24f8cc4-6bae-4d79-824a-d58ae034e5ad.png)
+
+13.Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su
+   consumo de potencia diario promedio?
+ ![image](https://user-images.githubusercontent.com/104925648/202342341-c9e2e631-3e29-4dc7-8e74-6b2dab199438.png)
+
+15.Convierta 6700 watts-segundos en kWh.
+![image](https://user-images.githubusercontent.com/104925648/202342613-e4976385-63a2-4be4-8962-f788c41d5050.png)
+
+
+## Sección 4-2 Potencia en un circuito eléctrico
+
+
+
+
+
+
+
 
 
 
