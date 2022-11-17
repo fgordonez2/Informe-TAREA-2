@@ -354,9 +354,7 @@ es la eficiencia de esta fuente de potencia?
 
 ># 4. VÍDEO
 
-Dicho vídeo se lo realizó con el fin de dar prioridad al volatje, corriente y resistencia; como conocimiento general para los circuitos eléctricos
-en este se usa conversiones de unidades y también definiciones básicas.
-https://www.youtube.com/watch?v=AUI8ETlBLOo
+Vídeo explicativo: https://youtu.be/q7IeAUiEiFQ
 
 ># 5. CONCLUSIONES
 
