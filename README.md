@@ -113,7 +113,7 @@ cuando
 - (a) el voltaje se triplica → **corriente se triplica**
 - (b) el voltaje se reduce en 75% →**corriente se reduce 75%**
 - (c) la resistencia se duplica → **la corriente se reduce a la mitad**
-- (d) la resistencia se reduce en 35% ↔ **la corriente aumenta un 54 %**
+- (d) la resistencia se reduce en 35% → **la corriente aumenta un 54 %**
 - (e) el voltaje se duplica y la resistencia se reduce a la mitad → **la corriente se cutriplica**
 - (f) el voltaje y la resistencia se duplican → **la corriente no cambia**
 
