@@ -158,8 +158,6 @@ nuevo valor?
 
 ![image](https://user-images.githubusercontent.com/104925648/202319427-cae67749-e4fa-4d41-94c4-c3c4fd3b1580.png)
 
-![image](https://user-images.githubusercontent.com/104925648/202319455-d28ebe8c-f78d-4d22-9736-938b16c8ff68.png)
-
 ![image](https://user-images.githubusercontent.com/104925648/202319918-4a289fdf-f045-4755-9624-9df970341bb5.png)
 
 
