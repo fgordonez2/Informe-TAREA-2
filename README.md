@@ -177,7 +177,7 @@ nuevo valor?
 
 ![image](https://user-images.githubusercontent.com/104925648/202330677-7fa8594f-1c5a-4cce-8362-55219dc20f3f.png)
 
-# Resolución de ejercicios impares *CAPITULO 3*:
+# Resolución de ejercicios impares *CAPITULO 4*:
 
 ## Autoevaluación:
 
