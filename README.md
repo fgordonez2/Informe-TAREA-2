@@ -110,12 +110,12 @@ los temas propuestos:
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
 cuando
-- (a) el voltaje se triplica
-- (b) el voltaje se reduce en 75%
-- (c) la resistencia se duplica
-- (d) la resistencia se reduce en 35%
-- (e) el voltaje se duplica y la resistencia se reduce a la mitad
-- (f) el voltaje y la resistencia se duplican
+- (a) el voltaje se triplica → **corriente se triplica**
+- (b) el voltaje se reduce en 75% →**corriente se reduce 75%**
+- (c) la resistencia se duplica → **la corriente se reduce a la mitad**
+- (d) la resistencia se reduce en 35% ↔ **la corriente aumenta un 54 %**
+- (e) el voltaje se duplica y la resistencia se reduce a la mitad → **la corriente se cutriplica**
+- (f) el voltaje y la resistencia se duplican → **la corriente no cambia**
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
 - V = I*R
