@@ -222,7 +222,7 @@ nuevo valor?
 - **(b) 20 Ah** ← 
 - (c) 8 Ah
 
-## Exámen ráido de dinámica de circuitos:
+## Exámen rápido de dinámica de circuitos:
 
 1.Si la corriente a través de un resistor fijo cambia de 10 mA a 12 mA, la potencia en el resistor
 - **(a) se incrementa** ← 
