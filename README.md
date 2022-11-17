@@ -295,6 +295,35 @@ nuevo valor?
 
 ## Sección 4-2 Potencia en un circuito eléctrico
 
+17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+![image](https://user-images.githubusercontent.com/104925648/202343221-0d2e8367-b625-4aa1-a259-3f7ae1857b9f.png)
+
+19.Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+![image](https://user-images.githubusercontent.com/104925648/202343405-8f22d5e8-3a9b-44c8-b37b-91b4523cba80.png)
+
+21.Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA
+
+![image](https://user-images.githubusercontent.com/104925648/202343668-2eff8067-b1f2-43b8-9f3d-4249e2fcc72e.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202344112-eb3d6f7c-9e6b-40e4-a0a3-24eee452960a.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202345334-0a7accd2-dfe8-4868-a0f8-fb4b0c342d40.png)
+
+## Sección 4-3 Clasificaciones de potencia de resitores
+
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular 
+    requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación
+    utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+    
+![image](https://user-images.githubusercontent.com/104925648/202345871-3b8ebbc8-65b5-48eb-a02c-47601921f682.png)
+
+## Sección 4-4 Conversión de energía y caída de voltaje en una resitencia
+
+No hay ningún ejercicio impar.
+
+## Sección 4-5 Fuentes de potencia
 
 
 
@@ -307,79 +336,6 @@ nuevo valor?
 
 
 
-
-
-
-
-
-
-## Sección 1-3 Notación de Ingeniería y Prefijos métricos
-
-
-
-## Sección 1-4 Conversiones de Unidades Métricas
-
-
-
-# Resolución de ejercicios impares *CAPITULO 4*:
-
-## Autoevaluación:
-
-1. Un átomo neutro con número atómico de tres, ¿cuántos electrones tiene?
-- (a) 1
-- **(b) 3** ←
-- (c) ninguno
-- (d) depende del tipo de átomo
-
-3. Los materiales donde no hay corriente cuando se aplica voltaje se llaman:
-- (a) filtros
-- (b) conductores
-- **(c) aislantes** ←
-- (d) semiconductores 
-
-5. La carga en un solo electrón es de:
-![image](https://user-images.githubusercontent.com/104925648/201218877-33e80190-b457-432d-9df6-8de69f1aa3f7.png)
-
-7. La unidad de energía es el:
-- (a) watt
-- (b) coulomb
-- **(c) joule** ←
-- (d) volt
-
-9. ¿Cuál de las siguientes circunstancias no es condición de un circuito eléctrico?
-- (a) voltaje y sin corriente
-- **(b) corriente y sin voltaje**
-- (c) voltaje y corriente
-- (d) sin voltaje y sin corriente 
-
-11 No hay corriente en un circuito cuando:
-- (a) un interruptor está cerrado
-- (b) un interruptor está abierto
-- (c) no hay voltaje
-- (d) respuestas (a) y (c)
-- **(e) respuestas (b) y (c)** ←
-
-13. Potenciómetros y reóstatos son tipos de
-- (a) fuentes de voltaje
-- **(b) resistores variables** ←
-- (c) resistores fijos
-- (d) cortacircuitos
-
-## Sección 2-2 Carga Eléctrica
-
-
-
-
-## Sección 2-4 Fuentes de volatje y de corriente
-
-17. Enliste cuatro fuentes de voltaje comunes.
-- 1) Fuente de potencia Cd
-- 2) Celda solar
-- 3) Generador
-- 4) Pilas (baterías)
-
-19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
-- La fuente de potencia convierte el volatje de corriente alterna en corriente directa
 
 
 
