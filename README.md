@@ -352,27 +352,6 @@ es la eficiencia de esta fuente de potencia?
     
  ![image](https://user-images.githubusercontent.com/104925648/202348576-62f3b478-52d8-493d-8c64-8999122ea58a.png)
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ># 4. VÍDEO
 
 Dicho vídeo se lo realizó con el fin de dar prioridad al volatje, corriente y resistencia; como conocimiento general para los circuitos eléctricos
@@ -381,16 +360,15 @@ https://www.youtube.com/watch?v=AUI8ETlBLOo
 
 ># 5. CONCLUSIONES
 
-- Los prefijos métricos en la notación de ingeniería y notación cinetífica son muy importantes a la hora de realizar ejercicios, 
-  tomando en cuenta que se necesitan pasar de cantidades muy pequeñas a muy grandes o viceversa.
-- Al realizar este informe se concluyó que el volatje es la fuerza que provoca que se muevan los electrones, la corrientes es la
-  velocidad con la que se mueven los electrones y la resistencia es la oposición a la corriente.
-- Con el análisis de lectura hecho en el capitulo 1-2, en cuanto al armar un circuito eléctrico de forma física se deben considerar varios
-  parámetros, como la correcta medición de los componentes de dicho circuito al igual que tomar precauciones y enfrentar de forma correcta algún
-  riesgo eleçtrico
-- Una vez analizado la notación de ingeniería puedo concluir que permiten representar cantidades muy grandes o muy pequeñas, muy comunes en áreas 
-  de la tecnología como la electricidad y electrónica. La diferencia entre los dos tipos de notaciones está en la representación del exponente. 
-  En el caso de la notación científica el exponente puede tener cualquier valor.
+- Al aplicar la ley de Ohm en muchos ejercicios se puede concluir que la corriente es directamente proporcinal al volatje e
+  inversamente porporcional a la resistencia.
+- El métdodo básico de abordar la localización de fallas es el APM ( siglas en inglés); que significan, análisis, planificación y medición.
+- Para calcular la potencia en un circuito eléctrico se relaciona la formula de potencia con la ley de Ohm, este proceso sirve de mucho
+  ya que a veces los datos del ejercicio nos dan en función de la Ley de Ohm.
+- Al realizar una lectura de los respectivos capitulos, se concluye que para seleccionar un resisitor que lo voy a implementar a mi
+  circuito eléctrico debo calcular la potencia discipada para que mi resisitor no sufra ningún daño, o puede ocasionar un corto circuito.
+- Los prefijos métricos son de gran ayuda para resolver cualquier tipo de ejercicio ya sea de corriente, volatje, resitencia, potencia o energía
+  al memorizar dichas divisones o multiplicaciones de los prefijos llegaremos a la respuesta correcta.
   
 
 ># 6. BIBLIOGRAFÍA
