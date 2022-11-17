@@ -160,6 +160,23 @@ nuevo valor?
 
 ![image](https://user-images.githubusercontent.com/104925648/202319918-4a289fdf-f045-4755-9624-9df970341bb5.png)
 
+![image](https://user-images.githubusercontent.com/104925648/202323708-2627166a-336e-40e6-9e6b-6478f0f91c4e.png)
+
+## Sección 3-4 Cálculo de la resistencia
+
+![image](https://user-images.githubusercontent.com/104925648/202324861-6a13cf28-5fd2-4e46-9bb5-e4f07aea8a09.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202325193-5a5ff4c2-6c2b-4e5e-ac02-46ef0f988d86.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202325930-492651d5-ef7b-49ca-9c7f-4990249cd941.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202326393-5ce53808-eb8b-4da9-a278-7a78c204da22.png)
+
+
+## Sección 3-5 Introducción a la localización de fallas
+
+![image](https://user-images.githubusercontent.com/104925648/202330677-7fa8594f-1c5a-4cce-8362-55219dc20f3f.png)
+
 
 
 
